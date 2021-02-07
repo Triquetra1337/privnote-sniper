@@ -2,9 +2,9 @@
 [TR]
 
 Sadece JS
-Gereken Modüller; privnote
+Gereken Modüller; privnote,discord.js
 
 [EN]
 
 Only JS
-Required Modules; privnote
+Required Modules; privnote,discord.js
